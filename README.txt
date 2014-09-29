@@ -20,7 +20,3 @@
 	input. And this program can handle the "+" or "-" at the beginning
 	of input. However, any other charactors will make the input an
 	invalid input
-5. If you just want to see my source code of the function, please go to
-   stringToLong.h and check the stringToLong() function.
-6. One flaw of this function is: even if the input is invalid, the function
-   will still return 0.
